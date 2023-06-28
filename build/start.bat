@@ -1,0 +1,1 @@
+java -Xmx256m -Dfile.encoding=utf-8 "-jar" "-Dspring.config.location=application.yml" "doodt-catchhtml-1.jar"

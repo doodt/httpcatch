@@ -1,0 +1,10 @@
+task:
+  #30秒一次
+  tiktok365:
+    cron: 0/30 * * * * ?
+    path: F:/91
+
+#日志
+logging:
+  config:
+    -classpath: logback.xml
